@@ -1,0 +1,7 @@
+dist/*
+.vscode/*
+.eslintrc.js
+webpack.config.js
+babel.config.js
+src/serviceWorkerRegistration.ts
+src/service-worker.ts
